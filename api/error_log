@@ -1,0 +1,10 @@
+[14-Jun-2024 17:53:49 America/Sao_Paulo] PHP Notice:  Undefined variable: api_key in /home/pain0133/meubox.painelmaster.lol/api/movies.php on line 38
+[14-Jun-2024 17:53:49 America/Sao_Paulo] PHP Notice:  Undefined variable: api_key in /home/pain0133/meubox.painelmaster.lol/api/movies.php on line 47
+[14-Jun-2024 17:53:49 America/Sao_Paulo] PHP Notice:  Undefined index: results in /home/pain0133/meubox.painelmaster.lol/api/movies.php on line 59
+[14-Jun-2024 17:53:49 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/pain0133/meubox.painelmaster.lol/api/movies.php on line 59
+[14-Jun-2024 17:53:49 America/Sao_Paulo] PHP Notice:  Undefined index: results in /home/pain0133/meubox.painelmaster.lol/api/movies.php on line 60
+[14-Jun-2024 17:53:49 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/pain0133/meubox.painelmaster.lol/api/movies.php on line 60
+[19-Jun-2024 12:35:50 America/Sao_Paulo] PHP Notice:  Undefined index: mac in /home/apktopco/ibouser.apktop.com.br/api/index.php on line 0
+[19-Jun-2024 13:03:39 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/apktopco/ibouser.apktop.com.br/api/auth.php on line 0
+[19-Jun-2024 13:03:39 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/apktopco/ibouser.apktop.com.br/api/auth.php on line 0
+[19-Jun-2024 13:03:39 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/apktopco/ibouser.apktop.com.br/api/auth.php on line 0
